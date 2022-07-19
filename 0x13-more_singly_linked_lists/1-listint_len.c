@@ -7,7 +7,7 @@
   *
   * Return: The number of elements in a linked list
   */
-size_t list_intlen(const listint_t *h)
+size_t listint_len(const listint_t *h)
 {
 	int counts = 0;
 
